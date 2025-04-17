@@ -1,21 +1,15 @@
 <h1 align="center">Hi there, I'm Keene 👋</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <div>
-    <a href="https://kchung.app/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white" alt="Website Badge"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/keenechung/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white" alt="Resume Badge"/>
-    </a>
-  </div>
+  <a href="https://kchung.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/keenechung/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white" alt="Resume Badge"/>
+  </a>
 </div>
 
 ## About Me
