@@ -1,18 +1,6 @@
 <h1 align="center"> Hi there, I'm Keene 👋</h1>
 
-
-<style>
-  a:focus-visible {
-    outline: none !important;
-  }
-  a img {
-    border: none !important;
-    outline: none !important;
-    box-shadow: none !important;
-  }
-</style>
-
-<p align="center">
+<div align="left">
   <a href="https://kchung.app/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white" alt="Website Badge"/>
   </a>
@@ -22,7 +10,7 @@
   <a href="https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white" alt="Resume Badge"/>
   </a>
-</p>
+</div>
 
 ## About Me
 
