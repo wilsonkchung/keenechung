@@ -3,15 +3,13 @@
 <div align="center">
   <a href="https://kchung.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white" alt="Website Badge"/>
-  </a> &nbsp
+  </a>
   <a href="https://www.linkedin.com/in/keenechung/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
-  </a> &nbsp
+  </a>
   <a href="https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing">
     <img src="https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white" alt="Resume Badge"/>
   </a>
-  <br>
-  Email: <a>kienvchung@gmail.com</a>
 </div>
 
 ## About Me
