@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Keene 👋</h1>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <div>
     <a href="https://kchung.app/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white" alt="Website Badge"/>
