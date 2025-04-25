@@ -1,7 +1,6 @@
 <div align="center">
-<h1 style="border: none; margin-bottom: 5px;">Hi, I'm Keene 👋 👨‍💻 </h1>
-
-<p style="font-weight: bold;">Let's connect!</p>
+<h1>Hi, I'm Keene 👋 👨‍💻 ☕️</h1>
+<p>Let's connect!</p>
 
 [![Website](https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white)](https://kchung.app/) &nbsp; 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keenechung/)  &nbsp; 
