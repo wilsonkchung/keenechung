@@ -2,19 +2,9 @@
 
 <div align="center">
 
-[![Website](https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white)](https://kchung.app/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keenechung/)
+[![Website](https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white)](https://kchung.app/) &nbsp; 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keenechung/)  &nbsp; 
 [![Resume](https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing)
-
-<a href="https://kchung.app/">
-  <img src="https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white" width="100"/>
-</a>
-<a href="https://www.linkedin.com/in/keenechung/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="109"/>
-</a>
-<a href="https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing">
-  <img src="https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white" width="109"/>
-</a>
 
 </div>
 
