@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Keene 👋 👨‍💻 ☕️</h1>
+<h1>Hi, I'm Wilson 👋 👨‍💻 ☕️</h1>
 <p>Let's connect!</p>
 
 [![Website](https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white)](https://kchung.app/) &nbsp; 
@@ -72,7 +72,7 @@ I’m currently pursuing a **Master of Science in Data Science** degree at PACE 
 
 ## Human Languagues
 
-English, Vietnamese, Cantonese
+English, Vietnamese
 
 
 <!--
