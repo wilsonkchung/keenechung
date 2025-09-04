@@ -2,8 +2,8 @@
 <h1>Hi, I'm Wilson 👋 👨‍💻 ☕️</h1>
 <p>Let's connect!</p>
 
-[![Website](https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white)](https://kchung.app/) &nbsp; 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keenechung/)  &nbsp; 
+[![Website](https://custom-icon-badges.demolab.com/badge/Website-EA4335?logo=web&logoColor=white)](https://wilsonkchung.com/) &nbsp; 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wilsonkchung)  &nbsp; 
 [![Resume](https://custom-icon-badges.demolab.com/badge/Resume-34A853?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bYzoWROVnOhCSRIIxIzErvhHo7M3ySe0/view?usp=sharing)
 </div>
 
