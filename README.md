@@ -10,7 +10,7 @@
 
 ## About Me
 
-I’m currently pursuing a **Master of Science in Data Science** degree at PACE University in New York. I have hands-on experience training, optimizing, and deploying machine learning models, with skills in predictive analytics, feature engineering, data preprocessing, and model deployment. I’m driven to solve real-world challenges by building robust machine learning systems and enhancing model performance. I'm eager to contribute my results-driven mindset, technical expertise, and strategic thinking to drive innovation and deliver impactful results.
+I am currently pursuing an MS in Data Science, specializing in machine learning and computer vision. My work centers on developing and optimizing robust models with particular focus on tackling real-world challenges. I aim to bridge advanced technical methods with practical applications, delivering solutions that create impact across industries.
 
 
 ## Data Science, Machine Learning, BI & Analytics
